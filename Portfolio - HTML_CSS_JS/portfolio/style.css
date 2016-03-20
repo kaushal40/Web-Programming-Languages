@@ -1,0 +1,77 @@
+#links {
+	background-color: blue;
+}
+
+html, body { height: 100%; width: 100%; margin: 0; font-family:sans-serif; }
+
+h1{text-align:left}
+
+#class1{height:100%;width:100%; background-color:#ffff80 }
+
+#class2{height:100%;}
+
+#id1 {padding-right:50px; font-size:20px;}
+
+#id2 {padding-right:50px; font-size:20px;}
+
+#id3 {padding-right:50px; font-size:20px;}
+
+#class3{background-color: #ffbb99; height:30px}
+
+#class5{background-color: #99ddff; height:100%;}
+
+h3 {padding-right:10%; margin-left:20px;}
+
+#class6{margin-left:20px}
+
+#class61{margin-left:20px}
+
+#class62{margin-left:20px}
+
+#class7{ 
+    height:100%; 
+	width:100%;
+    border-style: solid;
+    border-width: 5px;
+	margin-bottom: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:5px;
+	border-color:black;
+}
+
+#class71{ height:100%; width:100%;
+    border-style: solid;
+    border-width: 5px;
+	margin-bottom: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:5px;
+	border-color:black;
+}
+
+#class72{ height:100%; width:100%;
+    border-style: solid;
+    border-width: 5px;
+	margin-bottom: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:5px;
+	border-color:black;
+}
+
+#class8{background-color:#ffff80; height:100%;}
+
+#linksClass{color:white;}
+
+#search{height: 40px;}
+
+:link:hover { outline: solid red; background: gold;}
+
+span{color:orange; font-weight: bold; }
+
+#linksClasses{color:white;}
+
+#link {
+	background-color: blue;
+}
